@@ -1,6 +1,5 @@
 [build]
-  publish = "frontend"
-  command = "npm run build"
+  publish = "."
 
 [[redirects]]
   from = "/sw.js"
